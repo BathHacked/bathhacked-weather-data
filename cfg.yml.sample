@@ -1,0 +1,11 @@
+---
+:batchsize: 50
+:datastore:
+  :domain: data.bathhacked.org
+  :username: Your_username@for.bathhacked.org
+  :password: your_password_for_bathhacked
+  :app_token: datastore_app_token
+  :dataset: 3jiu-nb4x
+:wunderground:
+  :api_token: your_wunderground_token
+  :location_id: pws:ISOMERSE15
